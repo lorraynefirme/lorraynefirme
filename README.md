@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lorrayne%20Firme.png" width="950">
+  <img src="Lorrayne%20Firme.png" width="980">
 </p>
 ### 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! 🌻
 
