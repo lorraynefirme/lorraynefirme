@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lorrayne%20Firme.png" width="980">
+  <img src="bg-readme.png" width="980">
 </p>
 
 <h3>𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! 🌻</h3>
