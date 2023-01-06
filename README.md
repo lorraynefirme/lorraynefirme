@@ -6,8 +6,8 @@
 
 My name is Lorrayne Firme, 26 years old and I'm from Brazil! I've been studying front-end and I want share with you my challenges and experiencies.
 
-- 🎓 I'm a computer science student
-- 🌱  HTML5, CSS3, Javascript, React, Drupal, C++
+- 🎓 I have a bachelor's degree in Computer Science
+- 🌱  I'm currently studying front-end technologies
 - 📫 How to reach me: lorraynefirme@gmail.com
 - 😄 Pronouns: She/Her
 
