@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bg-readme.png" width="980">
+  <img src="https://github.com/lorraynefirme/lorraynefirme/blob/main/bg-readme.png?raw=true)" width="980">
 </p>
 
 
