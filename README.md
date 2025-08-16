@@ -16,7 +16,6 @@ Front-end developer who enjoys building websites that are fast, secure, and acce
 - ⚡ Optimizing Web Application Performance
 - ♿ Accessibility Best Practices
 - 🔐 Front-end Security
-- 🐬 Golang
 
 </br>
   ( React JS | Next JS | Typescript | Javascript | HTML | CSS | Jest | Testing Library | MySQL | Node JS | Express )
